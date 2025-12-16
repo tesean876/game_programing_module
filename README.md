@@ -1,2 +1,2 @@
-# game_programing_module
+# Game Programming Learning Journal
 learning game programming
