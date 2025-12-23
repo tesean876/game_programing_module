@@ -11,6 +11,8 @@ but I have still come to the realisation that I am. In so desperate need to unde
 Oba also suggest me to learn https://www.w3schools.com/cs/index.php which would help and that I got the bombshell from paul of THERE BEING SPECIAL NEEDS ASSISTANTS AVAILABLE FOR NOTE MAKING THIS WHOLE TIME AND I DIDN’T KNOW ABOUT IT
 
 ![alt text](Picture1.png)
+Mentally here.
+
 28th October to 25th November
 
 This whole time whilst I have been in lessons I have not actually sat and done anything. Partially because of procrastination and mainly because of other modules taking up most of my time and energy, so while I been trying to understand it I just seemingly can’t get the hang of it. 
@@ -21,5 +23,5 @@ I had now started working on more for the module and ended up learning from Alex
 December 9th
 Currently bouncing between module works but am trying to catch up with work that I have fallen behind on because of the nightmare that was 3D modelling. Even making sure to journal my struggles. We had been able to figure out a tutorial that can help make a timer script and despite the issue of not knowing why the time manager was not working I was able to get a head start. Not only that but was able to figure out how to do a movement script and despite the issue of gravity knocking it over I was able to get it locked into place so it does not tip over, but only now I must focus on making sure I put more work into this.
 
-![alt text](Picture2.png)
+![alt text](Picture2.jpg)
 
