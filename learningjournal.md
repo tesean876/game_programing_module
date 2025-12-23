@@ -9,5 +9,6 @@ as a way of being able to code but turned out anything but success, having been 
 https://docs.unity3d.com/2021.2/Documentation/ScriptReference/Transform.Translate.html
 but I have still come to the realisation that I am. In so desperate need to understand coding as it is a headache inducing task with lots to learn.
 Oba also suggest me to learn https://www.w3schools.com/cs/index.php which would help and that I got the bombshell from paul of THERE BEING SPECIAL NEEDS ASSISTANTS AVAILABLE FOR NOTE MAKING THIS WHOLE TIME AND I DIDN’T KNOW ABOUT IT
+
 ![alt text](Picture1.png)
 
