@@ -28,6 +28,10 @@ I had now started working on more for the module and ended up learning from Alex
 
 Currently bouncing between module works but am trying to catch up with work that I have fallen behind on because of the nightmare that was 3D modelling. Even making sure to journal my struggles. We had been able to figure out a tutorial that can help make a timer script and despite the issue of not knowing why the time manager was not working I was able to get a head start. Not only that but was able to figure out how to do a movement script and despite the issue of gravity knocking it over I was able to get it locked into place so it does not tip over, but only now I must focus on making sure I put more work into this.
 
+https://youtu.be/FFUBvsJw0ms?si=3egzs3eWYptgkvf_
+
+this video was helpful in order to figure out the movement. 
+
 ![alt text](Picture2.jpg)
 
 # Spiritually how I feel dealing with everything at this precise moment.
@@ -35,9 +39,18 @@ Currently bouncing between module works but am trying to catch up with work that
 ## December 16th
 
 Was able to finally get the script of the timer working and was able to get it displayed on screen, it was due to me not attaching the script in the timer manager canvas which resulted in it just being blank.
+
+While i may not remember what tutorial i had used but everything had went smoothly
+
+
 Going backwards I did also learnt that I had to separate each component and did learn I can drag scripts and animations from one project to another, first was the movement script, Then enemy which was much more trickier but figured out, then started working on the 4th and final component.
+
 ## December 17th - 18th 
 the 4th and final component was decided to be collectible that destroys itself when in contact with the player, now even though that I had struggled with being able to get the code to work I had discovered that it was the player script I needed to alter in order to destroy said object, I then was able to duplicate it and send it around the map which proved successful make it work
+
+https://youtu.be/5GWRPwuWtsQ?si=Zpkxvs_ZybHhzqjZ
+
+this video was what I have used to get the proper results.
 
 ## December 19th 
 
