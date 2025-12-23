@@ -30,7 +30,7 @@ Currently bouncing between module works but am trying to catch up with work that
 
 ![alt text](Picture2.jpg)
 
-Spiritually how I feel dealing with everything at this precise moment.
+# Spiritually how I feel dealing with everything at this precise moment.
 
 ## December 16th
 
