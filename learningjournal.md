@@ -45,6 +45,8 @@ After being able to replicate it into my main project I was able to get everythi
 
 ## 23rd December 
 
-I am now fully updating my journal and making sure that  hi
+I am now fully updating my journal and making sure that everything is properly working in order to upload everything.
+
+
 
 
