@@ -29,6 +29,7 @@ I had now started working on more for the module and ended up learning from Alex
 Currently bouncing between module works but am trying to catch up with work that I have fallen behind on because of the nightmare that was 3D modelling. Even making sure to journal my struggles. We had been able to figure out a tutorial that can help make a timer script and despite the issue of not knowing why the time manager was not working I was able to get a head start. Not only that but was able to figure out how to do a movement script and despite the issue of gravity knocking it over I was able to get it locked into place so it does not tip over, but only now I must focus on making sure I put more work into this.
 
 ![alt text](Picture2.jpg)
+
 Spiritually how I feel dealing with everything at this precise moment.
 
 ## December 16th
